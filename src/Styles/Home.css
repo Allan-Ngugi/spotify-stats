@@ -1,4 +1,17 @@
-h1{
-  font-size: 100px;
-  color: antiquewhite;
+button{
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  background-color: green;
+  width: 200px;
+  height:50px;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+.container-1{
+  padding-left: 44%;
+  padding-top: 23%;
 }
